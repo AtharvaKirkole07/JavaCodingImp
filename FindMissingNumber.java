@@ -14,7 +14,7 @@ class FindMissingNumber {
             actualSum += num;
         }
         
-        // The missing number is the difference between the expected and actual sums
+        // The missing number is t
         int missingNumber = expectedSum - actualSum;
         
         // Print the missing number
